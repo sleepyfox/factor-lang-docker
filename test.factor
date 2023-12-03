@@ -1,2 +1,2 @@
 USING: prettyprint math ;
-10 sq 5 - .
+7 sq 7 - .
